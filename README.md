@@ -21,6 +21,14 @@ University design project: a redesign of the website for a city bike rental serv
 |---|---|
 | <img src="bajkuj-v-meste/catalog-desktop.png" alt="Bajkuj v meste — bike catalog" width="100%"> | <img src="bajkuj-v-meste/design-system-colors.png" alt="Bajkuj v meste — design system colors" width="100%"> |
 
+| Bike detail | Registration form (mobile) |
+|---|---|
+| <img src="bajkuj-v-meste/bike-detail-desktop.png" alt="Bajkuj v meste — bike detail page" width="100%"> | <img src="bajkuj-v-meste/registration-mobile.png" alt="Bajkuj v meste — registration form, mobile" width="100%"> |
+
+| Design system: buttons |
+|---|
+| <img src="bajkuj-v-meste/design-system-buttons.png" alt="Bajkuj v meste — design system buttons" width="100%"> |
+
 ## Contact
 
 [emchik.sasha@gmail.com](mailto:emchik.sasha@gmail.com) · [GitHub profile](https://github.com/eshxyx)
